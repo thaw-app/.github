@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Thaw/Floe Code of Conduct
 
 ## Our Pledge
 
