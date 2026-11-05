@@ -1,7 +1,7 @@
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaw-app/.github/main/profile/thaw-wordmark-dark.png">
-    <img alt="Thaw" src="https://raw.githubusercontent.com/thaw-app/.github/main/profile/thaw-wordmark-light.png" width="280">
+    <source media="(prefers-color-scheme: dark)" srcset="thaw-wordmark-dark.png">
+    <img alt="Thaw" src="thaw-wordmark-light.png" width="280">
   </picture>
 </p>
 
