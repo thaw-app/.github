@@ -28,6 +28,14 @@ The open source launcher for macOS.
 <a href="https://scorecard.dev/viewer/?uri=github.com/thaw-app/Floe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/scorecard/thaw-app/Floe.svg?variant=ghost&amp;font=geist&amp;label=Scorecard&amp;mode=dark" /><img alt="OpenSSF Scorecard" src="https://shieldcn.dev/github/scorecard/thaw-app/Floe.svg?variant=ghost&amp;font=geist&amp;label=Scorecard&amp;mode=light" /></picture></a>
 </p>
 
+### [Punkto](https://getthaw.app/punkto)
+
+Thaw at its smallest: one menu bar item that hides the items you choose.
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/macOS-27%2B.svg?variant=ghost&amp;font=geist&amp;mode=dark" /><img alt="macOS 27 or later" src="https://shieldcn.dev/badge/macOS-27%2B.svg?variant=ghost&amp;font=geist&amp;mode=light" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Coming_soon.svg?variant=ghost&amp;font=geist&amp;mode=dark" /><img alt="Coming soon" src="https://shieldcn.dev/badge/Coming_soon.svg?variant=ghost&amp;font=geist&amp;mode=light" /></picture>
+</p>
+
 **Supported by**
 
 <p>
