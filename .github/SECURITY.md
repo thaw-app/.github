@@ -1,4 +1,4 @@
-# Thaw/Floe Security Policy
+# Security Policy
 
 ## Reporting a vulnerability
 
@@ -19,9 +19,9 @@ Security fixes target the latest stable release. Older releases are not supporte
 
 ## Scope
 
-Report privilege escalation, unauthorized access to application-managed data, arbitrary code execution through crafted input, permission bypasses, and compromised or forgeable release or update paths attributable to Thaw/Floe.
+Report privilege escalation, unauthorized access to application-managed data, arbitrary code execution through crafted input, permission bypasses, and compromised or forgeable release or update paths attributable to an app in this organization.
 
-Crashes without an exploit path, physical access to an unlocked Mac, social engineering, and flaws solely in third-party components are generally out of scope. Report third-party vulnerabilities to their maintainers unless Thaw/Floe needs a mitigation.
+Crashes without an exploit path, physical access to an unlocked Mac, social engineering, and flaws solely in third-party components are generally out of scope. Report third-party vulnerabilities to their maintainers unless the app needs a mitigation.
 
 Running a third-party extension or script is not a sandbox boundary. Only run code you trust; it may access files and the network under your user account. This policy does not promise protection against attackers who already control your Mac session or hold the same permissions.
 

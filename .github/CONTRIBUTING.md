@@ -1,4 +1,4 @@
-# Contributing to Thaw/Floe
+# Contributing
 
 Bug reports, code, documentation, and translations are welcome. Follow the [Code of Conduct](https://github.com/thaw-app/.github/blob/main/.github/CODE_OF_CONDUCT.md).
 
